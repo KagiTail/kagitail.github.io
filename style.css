@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+
+body {
+    background-color: aliceblue;
+}
+
+header {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    background-color:dodgerblue;
+    text-align: center;
+    color: aliceblue;
+    border: 6px solid;
+    border-color:rgb(146, 201, 255);
+}
+
+main {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+h2 {
+    color: rgb(16, 79, 141);
+}
